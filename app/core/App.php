@@ -45,8 +45,8 @@ class App{
     }
     // mencegah error jika url hanya ke public
     else{
-			$url = [$this->controller];
-			return $url;
-		}
+      $url = [$this->controller];
+      return $url;
+    }
   }
 }
