@@ -1,0 +1,2 @@
+#Memblok akses untuk masuk ke folder yang tidak ada index
+Options -Indexes
